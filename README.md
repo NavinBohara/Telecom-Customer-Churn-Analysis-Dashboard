@@ -134,17 +134,17 @@ The dashboard helps stakeholders quickly identify high-risk customer groups.
 ```
 Telecom-Customer-Churn-Analysis
 │
-├── notebook
-│   └── Telecom_Customer_Churn_Analysis.ipynb
+├── Telecom_Customer_Churn_Analysis.ipynb
+│    
 │
-├── dashboard
-│   └── Telecom_Churn_Dashboard.pbix
+├──  Telecom_Churn_Dashboard.pbix
+│  
 │
-├── data
-│   └── telecom_customer_churn.csv
+├── telecom_customer_churn.csv
+│   
 │
-├── images
-│   └── dashboard_preview.png
+├── dashboard_preview.png
+│   
 │
 └── README.md
 ```
