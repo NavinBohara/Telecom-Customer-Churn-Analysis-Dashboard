@@ -160,3 +160,11 @@ The analysis shows that contract type, tenure, and service factors play an impor
 
 Understanding these patterns can help telecom companies design better retention programs, improve customer experience, and reduce revenue loss caused by churn.
 
+---
+
+## Copyright
+
+© 2026 Navin Bohara. All rights reserved.
+
+This project and its contents are my original work. The code, analysis, and visualizations in this repository may not be copied, modified, or redistributed without permission.
+
