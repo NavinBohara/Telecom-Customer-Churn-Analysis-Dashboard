@@ -6,6 +6,9 @@ This project analyzes customer churn in a telecom company using Python and Power
 
 The analysis is based on a dataset of **7,043 telecom customers**. Using Python for exploratory analysis and Power BI for visualization, the project highlights the key drivers of churn and provides insights that can help telecom companies improve customer retention.
 
+## 📈 Dashboard Preview
+![Dashboard](dashboard_preview.png)
+
 ---
 
 # Problem Statement
